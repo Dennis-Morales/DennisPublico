@@ -14,5 +14,5 @@ int main(){
 	printf("Ingresa un numero: ");
 	scanf("%d",&x);
 	if(par(x)) printf("%d es par",x);
-	else printf("%d es impar",x);
+	else printf("%d es impar",x);//Modificado por María Candelaria Cabrera Acuña
 }
